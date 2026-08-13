@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "description": "Tools that sit between the agent and the world to filter traffic, prevent unauthorized tool access, and block prompt injections.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AgentGateway - A Linux Foundation project providing an AI-native proxy for secure connectivity (A2A & MCP protocols). It adds RBAC, observability, and policy enforcement to agent-tool interactions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:07:10Z",
+            "owner": "agentgateway",
+            "repo": "agentgateway",
+            "stars": 4333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immunity Agent - Security-focused AI agent runtime for scanning prompt injection, MCP risks, unsafe package installs, and dangerous agent actions before execution.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:08:22Z",
+            "owner": "PrismorSec",
+            "repo": "prismor",
+            "stars": 284
+          }
+        }
+      ],
+      "title": "🛡️ Agent Firewalls & Gateways (Runtime Protection)"
+    },
+    {
+      "description": "Offensive tools to test agents for security flaws, loop conditions, and unauthorized actions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Strix - An autonomous AI agent designed for penetration testing. It runs inside a docker sandbox to actively probe applications and generate verified exploit capabilities.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:26:28Z",
+            "owner": "usestrix",
+            "repo": "strix",
+            "stars": 51604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cybersecurity AI (CAI) - A framework for building specialized security agents for offensive and defensive operations, often used in CTF (Capture The Flag) scenarios.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T12:55:53Z",
+            "owner": "aliasrobotics",
+            "repo": "cai",
+            "stars": 9712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Garak - The \"Nmap for LLMs.\" A vulnerability scanner that probes models for hallucination, data leakage, and prompt injection susceptibilities.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:23:44Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 8786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Security - A dedicated vulnerability scanner for agent workflows and LLMs capable of running multi-step jailbreaks and fuzzing attacks against agent logic.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T16:27:20Z",
+            "owner": "msoedov",
+            "repo": "agentic_security",
+            "stars": 1961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A2A Scanner - A scanner by Cisco designed to inspect \"Agent-to-Agent\" communication protocols for threats, validating agent identities and ensuring compliance with communication specs.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-16T15:50:37Z",
+            "owner": "cisco-ai-defense",
+            "repo": "a2a-scanner",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRIT - Microsoft's open-source red teaming framework for generative AI. It automates multi-turn adversarial attacks to test if an agent can be coerced into harmful behavior.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-25T01:18:52Z",
+            "owner": "Azure",
+            "repo": "PyRIT",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "⚔️ Red Teaming & Vulnerability Scanners"
+    },
+    {
+      "description": "Tools to analyze agent configuration and logic code before deployment.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Checkov - While primarily for IaC, Checkov includes policies for scanning AI infrastructure and configurations to prevent misconfigurations in deployment.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:17:26Z",
+            "owner": "bridgecrewio",
+            "repo": "checkov",
+            "stars": 8932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Radar - A static analysis tool that visualizes agent workflows (LangGraph, CrewAI, AutoGen). It detects risky tool usage, permission loops, and maps them to known vulnerabilities.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T15:28:44Z",
+            "owner": "splx-ai",
+            "repo": "agentic-radar",
+            "stars": 1030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATR (Agent Threat Rules) - 108 open-source regex detection rules for AI agent threats (prompt injection, tool poisoning, credential exfiltration, skill compromise). <1ms per scan. Adopted by Cisco AI Defense.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:50:18Z",
+            "owner": "Agent-Threat-Rule",
+            "repo": "agent-threat-rules",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aguara - A static security scanner for AI agent skills and MCP server configurations. Detects prompt injection, credential leaks, data exfiltration, and supply-chain attacks with 173 built-in rules, 4 analysis layers, and remediation guidance.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:17:01Z",
+            "owner": "garagon",
+            "repo": "aguara",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Bound - A design-time analysis tool that calculates \"Agentic Entropy\"—a metric to quantify the unpredictability and risk of infinite loops or unconstrained actions in agent architectures.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "🔍 Static Analysis & Linters"
+    },
+    {
+      "description": "Secure runtimes to prevent agents from damaging the host system during code execution.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenHands - Formerly OpenDevin, this platform includes a secure runtime environment for autonomous coding agents to operate without accessing the host machine's sensitive files.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:24:05Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 83853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-Infra Sandbox - An \"All-In-One\" sandbox combining Browser, Shell, VSCode, and File System access in a single Docker container, optimized for agentic tasks.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T16:05:37Z",
+            "owner": "agent-infra",
+            "repo": "sandbox",
+            "stars": 5693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes Agent Sandbox - A Kubernetes Native project providing a Sandbox Custom Resource Definition (CRD) to manage isolated, stateful workloads for AI agents.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:21:44Z",
+            "owner": "kubernetes-sigs",
+            "repo": "agent-sandbox",
+            "stars": 3499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SandboxAI - An open-source runtime for executing AI-generated code (Python/Shell) in isolated containers with granular permission controls.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-05T21:31:58Z",
+            "owner": "substratusai",
+            "repo": "sandboxai",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "📦 Sandboxing & Isolation Environments"
+    },
+    {
+      "description": "Middleware to enforce business logic and safety policies on inputs and outputs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiteLLM Guardrails - While known for model proxying, LiteLLM includes built-in guardrail features to filter requests and responses across multiple LLM providers.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:13:00Z",
+            "owner": "BerriAI",
+            "repo": "litellm",
+            "stars": 56212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guardrails - A Python framework for validating LLM outputs against structural and semantic rules (e.g., \"must return valid JSON,\" \"must not contain PII\").",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:45:56Z",
+            "owner": "guardrails-ai",
+            "repo": "guardrails",
+            "stars": 7279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeMo Guardrails - NVIDIA's toolkit for adding programmable rails to LLM-based apps. It ensures agents stay on topic, avoid jailbreaks, and adhere to defined safety policies.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:11:19Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 6932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Agent Memory Guard - An official OWASP project that detects and blocks AI agent memory poisoning attacks (OWASP ASI06). Provides a drop-in middleware for LangChain, AutoGen, and CrewAI pipelines with real-time threat detection, sanitization hooks, and audit logging. .",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:49:58Z",
+            "owner": "OWASP",
+            "repo": "www-project-agent-memory-guard",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "🚧 Guardrails & Compliance"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:41.881Z",
+    "original_repository": "ProjectRecon/awesome-ai-agents-security",
+    "original_repository_sha": "f0252697b78f768233ef01a1f5f58ccd117223d1",
+    "enhanced_repository": "enhansome/enhansome-ai-agents-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI Agents Security with stars"
+  }
+}
