@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 950891299,
             "language": "Rust",
-            "last_commit": "2026-08-17T23:14:06Z",
+            "last_commit": "2026-08-18T22:31:22Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4407
+            "stars": 4428
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162750276,
             "language": "Python",
-            "last_commit": "2026-08-18T06:38:06Z",
+            "last_commit": "2026-08-19T08:25:20Z",
             "owner": "PrismorSec",
             "repo": "prismor",
-            "stars": 294
+            "stars": 296
           }
         }
       ],
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032808806,
             "language": "Python",
-            "last_commit": "2026-08-17T20:55:28Z",
+            "last_commit": "2026-08-18T23:40:44Z",
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 54871
+            "stars": 55373
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 957859485,
             "language": "Python",
             "last_commit": "2026-07-14T12:55:53Z",
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9758
+            "stars": 9766
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 639097338,
             "language": "Python",
             "last_commit": "2026-08-17T22:54:09Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8845
+            "stars": 8859
           }
         },
         {
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 785334631,
             "language": "Python",
-            "last_commit": "2026-07-31T16:27:20Z",
+            "last_commit": "2026-08-18T16:15:08Z",
             "owner": "msoedov",
             "repo": "agentic_security",
             "stars": 1966
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1110206646,
             "language": "Python",
             "last_commit": "2026-04-16T15:50:37Z",
             "owner": "cisco-ai-defense",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1191146757,
             "language": null,
             "last_commit": "2026-03-25T01:18:52Z",
             "owner": "Azure",
@@ -134,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-18T13:10:05Z",
+            "last_commit": "2026-08-19T11:43:40Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8949
+            "stars": 8954
           }
         },
         {
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931506474,
             "language": "Python",
             "last_commit": "2025-11-27T15:28:44Z",
             "owner": "splx-ai",
@@ -162,8 +172,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:46:43Z",
+            "last_commit": "2026-08-19T07:02:54Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 371
@@ -176,18 +187,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160362952,
             "language": "Go",
             "last_commit": "2026-08-17T03:35:46Z",
             "owner": "garagon",
             "repo": "aguara",
             "stars": 86
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Agent Bound - A design-time analysis tool that calculates \"Agentic Entropy\"—a metric to quantify the unpredictability and risk of infinite loops or unconstrained actions in agent architectures.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "🔍 Static Analysis & Linters"
@@ -202,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:26:41Z",
+            "last_commit": "2026-08-19T12:13:05Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84393
+            "stars": 84466
           }
         },
         {
@@ -216,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1033268244,
             "language": "Python",
             "last_commit": "2026-08-17T07:49:03Z",
             "owner": "agent-infra",
             "repo": "sandbox",
-            "stars": 5745
+            "stars": 5752
           }
         },
         {
@@ -230,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036441713,
             "language": "Go",
-            "last_commit": "2026-08-18T01:29:17Z",
+            "last_commit": "2026-08-18T22:03:10Z",
             "owner": "kubernetes-sigs",
             "repo": "agent-sandbox",
-            "stars": 3559
+            "stars": 3567
           }
         },
         {
@@ -244,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 924887553,
             "language": "Go",
             "last_commit": "2025-02-05T21:31:58Z",
             "owner": "substratusai",
@@ -264,11 +274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-18T13:14:44Z",
+            "last_commit": "2026-08-19T09:52:35Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 56640
+            "stars": 56734
           }
         },
         {
@@ -278,11 +289,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594609262,
             "language": "Python",
-            "last_commit": "2026-08-18T01:17:26Z",
+            "last_commit": "2026-08-18T17:51:16Z",
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7296
+            "stars": 7300
           }
         },
         {
@@ -292,11 +304,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-18T12:06:30Z",
+            "last_commit": "2026-08-19T11:48:38Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 6969
+            "stars": 6973
           }
         },
         {
@@ -306,11 +319,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-18T03:49:24Z",
+            "last_commit": "2026-08-18T16:38:37Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
-            "stars": 129
+            "stars": 135
           }
         }
       ],
@@ -318,8 +332,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:48:50.243Z",
+    "last_updated": "2026-08-19T12:13:42.347Z",
     "original_repository": "ProjectRecon/awesome-ai-agents-security",
+    "original_repository_id": 1112142779,
     "original_repository_sha": "f0252697b78f768233ef01a1f5f58ccd117223d1",
     "enhanced_repository": "enhansome/enhansome-ai-agents-security",
     "enhanced_repository_description": null,
