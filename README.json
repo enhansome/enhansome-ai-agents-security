@@ -51,7 +51,7 @@
             "last_commit": "2026-08-18T23:40:44Z",
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 55373
+            "stars": 55426
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-17T22:54:09Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8859
+            "stars": 8861
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-19T11:43:40Z",
+            "last_commit": "2026-08-19T12:30:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
             "stars": 8954
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:13:05Z",
+            "last_commit": "2026-08-19T13:46:42Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84466
+            "stars": 84473
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-17T07:49:03Z",
             "owner": "agent-infra",
             "repo": "sandbox",
-            "stars": 5752
+            "stars": 5753
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-19T09:52:35Z",
+            "last_commit": "2026-08-19T13:47:46Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 56734
+            "stars": 56742
           }
         },
         {
@@ -291,7 +291,7 @@
             "archived": false,
             "id": 594609262,
             "language": "Python",
-            "last_commit": "2026-08-18T17:51:16Z",
+            "last_commit": "2026-08-19T13:28:34Z",
             "owner": "guardrails-ai",
             "repo": "guardrails",
             "stars": 7300
@@ -306,7 +306,7 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-19T11:48:38Z",
+            "last_commit": "2026-08-19T13:24:30Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
             "stars": 6973
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:42.347Z",
+    "last_updated": "2026-08-19T13:50:14.172Z",
     "original_repository": "ProjectRecon/awesome-ai-agents-security",
     "original_repository_id": 1112142779,
     "original_repository_sha": "f0252697b78f768233ef01a1f5f58ccd117223d1",
