@@ -34,9 +34,9 @@ This list is organized by the **security lifecycle** of an autonomous agent, cov
 
 *Offensive tools to test agents for security flaws, loop conditions, and unauthorized actions.*
 
-* **[Strix](https://github.com/usestrix/strix) ⭐ 57,630 | 🐛 321 | 🌐 Python | 📅 2026-08-24** - An autonomous AI agent designed for penetration testing. It runs inside a docker sandbox to actively probe applications and generate verified exploit capabilities.
+* **[Strix](https://github.com/usestrix/strix) ⭐ 57,648 | 🐛 321 | 🌐 Python | 📅 2026-08-24** - An autonomous AI agent designed for penetration testing. It runs inside a docker sandbox to actively probe applications and generate verified exploit capabilities.
 * **[Cybersecurity AI (CAI)](https://github.com/aliasrobotics/cai) ⚠️ Archived** - A framework for building specialized security agents for offensive and defensive operations, often used in CTF (Capture The Flag) scenarios.
-* **[Garak](https://github.com/leondz/garak) ⭐ 9,005 | 🐛 405 | 🌐 Python | 📅 2026-08-21** - The "Nmap for LLMs." A vulnerability scanner that probes models for hallucination, data leakage, and prompt injection susceptibilities.
+* **[Garak](https://github.com/leondz/garak) ⭐ 9,006 | 🐛 405 | 🌐 Python | 📅 2026-08-21** - The "Nmap for LLMs." A vulnerability scanner that probes models for hallucination, data leakage, and prompt injection susceptibilities.
 * **[Agentic Security](https://github.com/msoedov/agentic_security) ⭐ 1,973 | 🐛 69 | 🌐 Python | 📅 2026-08-18** - A dedicated vulnerability scanner for agent workflows and LLMs capable of running multi-step jailbreaks and fuzzing attacks against agent logic.
 * **[A2A Scanner](https://github.com/cisco-ai-defense/a2a-scanner) ⭐ 163 | 🐛 4 | 🌐 Python | 📅 2026-04-16** - A scanner by Cisco designed to inspect "Agent-to-Agent" communication protocols for threats, validating agent identities and ensuring compliance with communication specs.
 * **[PyRIT](https://github.com/Azure/PyRIT) ⚠️ Archived** - Microsoft's open-source red teaming framework for generative AI. It automates multi-turn adversarial attacks to test if an agent can be coerced into harmful behavior.
@@ -55,18 +55,18 @@ This list is organized by the **security lifecycle** of an autonomous agent, cov
 
 *Secure runtimes to prevent agents from damaging the host system during code execution.*
 
-* **[OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 84,943 | 🐛 536 | 🌐 TypeScript | 📅 2026-08-24** - Formerly OpenDevin, this platform includes a secure runtime environment for autonomous coding agents to operate without accessing the host machine's sensitive files.
+* **[OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 84,946 | 🐛 536 | 🌐 TypeScript | 📅 2026-08-24** - Formerly OpenDevin, this platform includes a secure runtime environment for autonomous coding agents to operate without accessing the host machine's sensitive files.
 * **[Agent-Infra Sandbox](https://github.com/agent-infra/sandbox) ⭐ 5,767 | 🐛 68 | 🌐 Python | 📅 2026-08-17** - An "All-In-One" sandbox combining Browser, Shell, VSCode, and File System access in a single Docker container, optimized for agentic tasks.
-* **[Kubernetes Agent Sandbox](https://github.com/kubernetes-sigs/agent-sandbox) ⭐ 3,601 | 🐛 211 | 🌐 Go | 📅 2026-08-22** - A Kubernetes Native project providing a Sandbox Custom Resource Definition (CRD) to manage isolated, stateful workloads for AI agents.
+* **[Kubernetes Agent Sandbox](https://github.com/kubernetes-sigs/agent-sandbox) ⭐ 3,602 | 🐛 211 | 🌐 Go | 📅 2026-08-22** - A Kubernetes Native project providing a Sandbox Custom Resource Definition (CRD) to manage isolated, stateful workloads for AI agents.
 * **[SandboxAI](https://github.com/substratusai/sandboxai) ⭐ 144 | 🐛 5 | 🌐 Go | 📅 2025-02-05** - An open-source runtime for executing AI-generated code (Python/Shell) in isolated containers with granular permission controls.
 
 ## 🚧 Guardrails & Compliance
 
 *Middleware to enforce business logic and safety policies on inputs and outputs.*
 
-* **[LiteLLM Guardrails](https://github.com/BerriAI/litellm) ⭐ 57,141 | 🐛 4,919 | 🌐 Python | 📅 2026-08-24** - While known for model proxying, LiteLLM includes built-in guardrail features to filter requests and responses across multiple LLM providers.
+* **[LiteLLM Guardrails](https://github.com/BerriAI/litellm) ⭐ 57,143 | 🐛 4,919 | 🌐 Python | 📅 2026-08-24** - While known for model proxying, LiteLLM includes built-in guardrail features to filter requests and responses across multiple LLM providers.
 * **[Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 7,315 | 🐛 92 | 🌐 Python | 📅 2026-08-19** - A Python framework for validating LLM outputs against structural and semantic rules (e.g., "must return valid JSON," "must not contain PII").
-* **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,008 | 🐛 213 | 🌐 Python | 📅 2026-08-24** - NVIDIA's toolkit for adding programmable rails to LLM-based apps. It ensures agents stay on topic, avoid jailbreaks, and adhere to defined safety policies.
+* **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,008 | 🐛 214 | 🌐 Python | 📅 2026-08-24** - NVIDIA's toolkit for adding programmable rails to LLM-based apps. It ensures agents stay on topic, avoid jailbreaks, and adhere to defined safety policies.
 * **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 155 | 🐛 21 | 🌐 Python | 📅 2026-08-24** - An official OWASP project that detects and blocks AI agent memory poisoning attacks (OWASP ASI06). Provides a drop-in middleware for LangChain, AutoGen, and CrewAI pipelines with real-time threat detection, sanitization hooks, and audit logging. `pip install agent-memory-guard`.
 
 ## 📊 Benchmarks & Datasets

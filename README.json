@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T12:59:44Z",
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 57630
+            "stars": 57648
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T14:25:03Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9005
+            "stars": 9006
           }
         },
         {
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:49:16Z",
+            "last_commit": "2026-08-24T14:44:44Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84943
+            "stars": 84946
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-22T01:21:14Z",
             "owner": "kubernetes-sigs",
             "repo": "agent-sandbox",
-            "stars": 3601
+            "stars": 3602
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-24T13:13:55Z",
+            "last_commit": "2026-08-24T14:38:05Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57141
+            "stars": 57143
           }
         },
         {
@@ -306,7 +306,7 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-24T13:51:57Z",
+            "last_commit": "2026-08-24T14:23:16Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
             "stars": 7008
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:16.967Z",
+    "last_updated": "2026-08-24T14:46:32.475Z",
     "original_repository": "ProjectRecon/awesome-ai-agents-security",
     "original_repository_id": 1112142779,
     "original_repository_sha": "f0252697b78f768233ef01a1f5f58ccd117223d1",
