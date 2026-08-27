@@ -12,10 +12,10 @@
             "archived": false,
             "id": 950891299,
             "language": "Rust",
-            "last_commit": "2026-08-25T14:49:19Z",
+            "last_commit": "2026-08-26T22:27:02Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4552
+            "stars": 4575
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1162750276,
             "language": "Python",
-            "last_commit": "2026-08-25T20:20:06Z",
+            "last_commit": "2026-08-27T09:44:11Z",
             "owner": "PrismorSec",
             "repo": "prismor",
-            "stars": 332
+            "stars": 334
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 1032808806,
             "language": "Python",
-            "last_commit": "2026-08-25T22:13:36Z",
+            "last_commit": "2026-08-27T05:01:47Z",
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 58424
+            "stars": 58696
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T13:05:58Z",
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9807
+            "stars": 9808
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-25T22:37:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9032
+            "stars": 9040
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-26T10:49:46Z",
+            "last_commit": "2026-08-27T00:07:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8974
+            "stars": 8972
           }
         },
         {
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:35:42Z",
+            "last_commit": "2026-08-27T08:09:29Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 85153
+            "stars": 85253
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-25T08:10:03Z",
             "owner": "agent-infra",
             "repo": "sandbox",
-            "stars": 5784
+            "stars": 5792
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 1036441713,
             "language": "Go",
-            "last_commit": "2026-08-25T22:47:36Z",
+            "last_commit": "2026-08-27T00:49:47Z",
             "owner": "kubernetes-sigs",
             "repo": "agent-sandbox",
-            "stars": 3634
+            "stars": 3650
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-26T12:11:48Z",
+            "last_commit": "2026-08-27T11:18:02Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57316
+            "stars": 57383
           }
         },
         {
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 594609262,
             "language": "Python",
-            "last_commit": "2026-08-25T17:48:29Z",
+            "last_commit": "2026-08-27T01:31:22Z",
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7320
+            "stars": 7324
           }
         },
         {
@@ -306,10 +306,10 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-26T12:03:53Z",
+            "last_commit": "2026-08-26T21:38:00Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7015
+            "stars": 7022
           }
         },
         {
@@ -321,7 +321,7 @@
             "archived": false,
             "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-26T12:44:31Z",
+            "last_commit": "2026-08-27T02:35:04Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
             "stars": 156
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 1175900220,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T06:34:38Z",
+            "last_commit": "2026-08-27T03:35:26Z",
             "owner": "onecli",
             "repo": "onecli",
-            "stars": 3408
+            "stars": 3419
           }
         }
       ],
@@ -374,9 +374,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:58:56.518Z",
-    "original_repository": "ProjectRecon/awesome-ai-agents-security",
-    "original_repository_id": 1112142779,
+    "last_updated": "2026-08-27T11:18:31.160Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1112142779,
+      "language": null,
+      "last_commit": "2026-06-12T10:52:03Z",
+      "owner": "ProjectRecon",
+      "repo": "awesome-ai-agents-security",
+      "stars": 67
+    },
     "original_repository_sha": "f0252697b78f768233ef01a1f5f58ccd117223d1",
     "enhanced_repository": "enhansome/enhansome-ai-agents-security",
     "enhanced_repository_description": null,
