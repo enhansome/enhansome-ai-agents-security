@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T22:43:49Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4601
-          }
+            "stars": 4628
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 1162750276,
             "language": "Python",
-            "last_commit": "2026-08-27T19:28:07Z",
+            "last_commit": "2026-08-28T01:50:31Z",
             "owner": "PrismorSec",
             "repo": "prismor",
-            "stars": 335
-          }
+            "stars": 336
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         }
       ],
       "title": "🛡️ Agent Firewalls & Gateways (Runtime Protection)"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 1032808806,
             "language": "Python",
-            "last_commit": "2026-08-27T22:43:09Z",
+            "last_commit": "2026-08-28T20:46:50Z",
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 58853
-          }
+            "stars": 59104
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-22T13:05:58Z",
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9809
-          }
+            "stars": 9813
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-25T22:37:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9047
-          }
+            "stars": 9066
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-18T16:15:08Z",
             "owner": "msoedov",
             "repo": "agentic_security",
-            "stars": 1978
-          }
+            "stars": 1979
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-04-16T15:50:37Z",
             "owner": "cisco-ai-defense",
             "repo": "a2a-scanner",
-            "stars": 164
-          }
+            "stars": 165
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "Azure",
             "repo": "PyRIT",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         }
       ],
       "title": "⚔️ Red Teaming & Vulnerability Scanners"
@@ -147,8 +155,9 @@
             "last_commit": "2026-08-27T00:07:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8973
-          }
+            "stars": 8976
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "splx-ai",
             "repo": "agentic-radar",
             "stars": 1043
-          }
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:45:23Z",
+            "last_commit": "2026-08-28T18:43:18Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "garagon",
             "repo": "aguara",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         }
       ],
       "title": "🔍 Static Analysis & Linters"
@@ -210,11 +222,12 @@
             "archived": false,
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:56:39Z",
+            "last_commit": "2026-08-28T22:05:25Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 85301
-          }
+            "stars": 85468
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -228,8 +241,9 @@
             "last_commit": "2026-08-25T08:10:03Z",
             "owner": "agent-infra",
             "repo": "sandbox",
-            "stars": 5793
-          }
+            "stars": 5797
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 1036441713,
             "language": "Go",
-            "last_commit": "2026-08-27T17:59:57Z",
+            "last_commit": "2026-08-28T18:58:07Z",
             "owner": "kubernetes-sigs",
             "repo": "agent-sandbox",
-            "stars": 3662
-          }
+            "stars": 3671
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "substratusai",
             "repo": "sandboxai",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         }
       ],
       "title": "📦 Sandboxing & Isolation Environments"
@@ -276,11 +292,12 @@
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-27T22:55:07Z",
+            "last_commit": "2026-08-28T22:59:10Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57421
-          }
+            "stars": 57497
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -294,8 +311,9 @@
             "last_commit": "2026-08-27T01:31:22Z",
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7327
-          }
+            "stars": 7333
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -309,8 +327,9 @@
             "last_commit": "2026-08-27T16:40:49Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7023
-          }
+            "stars": 7025
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         },
         {
           "node_type": "item",
@@ -321,11 +340,12 @@
             "archived": false,
             "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-27T16:12:26Z",
+            "last_commit": "2026-08-28T16:36:26Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
-            "stars": 159
-          }
+            "stars": 160
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         }
       ],
       "title": "🚧 Guardrails & Compliance"
@@ -346,7 +366,8 @@
             "owner": "uiuc-kang-lab",
             "repo": "cve-bench",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         }
       ],
       "title": "📊 Benchmarks & Datasets"
@@ -363,18 +384,19 @@
             "archived": false,
             "id": 1175900220,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:35:26Z",
+            "last_commit": "2026-08-28T17:45:44Z",
             "owner": "onecli",
             "repo": "onecli",
-            "stars": 3420
-          }
+            "stars": 3423
+          },
+          "first_seen": "2026-08-28T22:59:50.236Z"
         }
       ],
       "title": "🆔 Identity & Authentication"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:55:08.153Z",
+    "last_updated": "2026-08-28T22:59:50.236Z",
     "original_repository_info": {
       "archived": false,
       "id": 1112142779,
@@ -382,7 +404,7 @@
       "last_commit": "2026-06-12T10:52:03Z",
       "owner": "ProjectRecon",
       "repo": "awesome-ai-agents-security",
-      "stars": 67
+      "stars": 68
     },
     "original_repository_sha": "f0252697b78f768233ef01a1f5f58ccd117223d1",
     "enhanced_repository": "enhansome/enhansome-ai-agents-security",
