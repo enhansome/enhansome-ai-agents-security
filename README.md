@@ -26,18 +26,18 @@ This list is organized by the **security lifecycle** of an autonomous agent, cov
 
 *Tools that sit between the agent and the world to filter traffic, prevent unauthorized tool access, and block prompt injections.*
 
-* **[AgentGateway](https://github.com/agentgateway/agentgateway) ⭐ 4,776 | 🐛 282 | 🌐 Rust | 📅 2026-09-09** - A Linux Foundation project providing an AI-native proxy for secure connectivity (A2A & MCP protocols). It adds RBAC, observability, and policy enforcement to agent-tool interactions.
-* **[Immunity Agent](https://github.com/PrismorSec/immunity-agent) ⭐ 342 | 🐛 56 | 🌐 Python | 📅 2026-09-09** - Security-focused AI agent runtime for scanning prompt injection, MCP risks, unsafe package installs, and dangerous agent actions before execution.
+* **[AgentGateway](https://github.com/agentgateway/agentgateway) ⭐ 4,797 | 🐛 262 | 🌐 Rust | 📅 2026-09-10** - A Linux Foundation project providing an AI-native proxy for secure connectivity (A2A & MCP protocols). It adds RBAC, observability, and policy enforcement to agent-tool interactions.
+* **[Immunity Agent](https://github.com/PrismorSec/immunity-agent) ⭐ 342 | 🐛 50 | 🌐 Python | 📅 2026-09-10** - Security-focused AI agent runtime for scanning prompt injection, MCP risks, unsafe package installs, and dangerous agent actions before execution.
 * **[Envoy AI Gateway](https://gateway.envoyproxy.io/)** - An Envoy-based gateway that manages request traffic to GenAI services, providing a control point for rate limiting and policy enforcement.
 
 ## ⚔️ Red Teaming & Vulnerability Scanners
 
 *Offensive tools to test agents for security flaws, loop conditions, and unauthorized actions.*
 
-* **[Strix](https://github.com/usestrix/strix) ⭐ 61,505 | 🐛 363 | 🌐 Python | 📅 2026-09-09** - An autonomous AI agent designed for penetration testing. It runs inside a docker sandbox to actively probe applications and generate verified exploit capabilities.
+* **[Strix](https://github.com/usestrix/strix) ⭐ 61,674 | 🐛 366 | 🌐 Python | 📅 2026-09-10** - An autonomous AI agent designed for penetration testing. It runs inside a docker sandbox to actively probe applications and generate verified exploit capabilities.
 * **[Cybersecurity AI (CAI)](https://github.com/aliasrobotics/cai) ⚠️ Archived** - A framework for building specialized security agents for offensive and defensive operations, often used in CTF (Capture The Flag) scenarios.
-* **[Garak](https://github.com/leondz/garak) ⭐ 9,151 | 🐛 415 | 🌐 Python | 📅 2026-09-09** - The "Nmap for LLMs." A vulnerability scanner that probes models for hallucination, data leakage, and prompt injection susceptibilities.
-* **[Agentic Security](https://github.com/msoedov/agentic_security) ⭐ 1,988 | 🐛 72 | 🌐 Python | 📅 2026-09-07** - A dedicated vulnerability scanner for agent workflows and LLMs capable of running multi-step jailbreaks and fuzzing attacks against agent logic.
+* **[Garak](https://github.com/leondz/garak) ⭐ 9,175 | 🐛 417 | 🌐 Python | 📅 2026-09-09** - The "Nmap for LLMs." A vulnerability scanner that probes models for hallucination, data leakage, and prompt injection susceptibilities.
+* **[Agentic Security](https://github.com/msoedov/agentic_security) ⭐ 1,989 | 🐛 72 | 🌐 Python | 📅 2026-09-07** - A dedicated vulnerability scanner for agent workflows and LLMs capable of running multi-step jailbreaks and fuzzing attacks against agent logic.
 * **[A2A Scanner](https://github.com/cisco-ai-defense/a2a-scanner) ⭐ 166 | 🐛 4 | 🌐 Python | 📅 2026-04-16** - A scanner by Cisco designed to inspect "Agent-to-Agent" communication protocols for threats, validating agent identities and ensuring compliance with communication specs.
 * **[PyRIT](https://github.com/Azure/PyRIT) ⚠️ Archived** - Microsoft's open-source red teaming framework for generative AI. It automates multi-turn adversarial attacks to test if an agent can be coerced into harmful behavior.
 
@@ -45,41 +45,41 @@ This list is organized by the **security lifecycle** of an autonomous agent, cov
 
 *Tools to analyze agent configuration and logic code before deployment.*
 
-* **[Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,990 | 🐛 168 | 🌐 Python | 📅 2026-09-05** - While primarily for IaC, Checkov includes policies for scanning AI infrastructure and configurations to prevent misconfigurations in deployment.
+* **[Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,996 | 🐛 168 | 🌐 Python | 📅 2026-09-10** - While primarily for IaC, Checkov includes policies for scanning AI infrastructure and configurations to prevent misconfigurations in deployment.
 * **[Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,048 | 🐛 15 | 🌐 Python | 📅 2025-11-27** - A static analysis tool that visualizes agent workflows (LangGraph, CrewAI, AutoGen). It detects risky tool usage, permission loops, and maps them to known vulnerabilities.
-* **[ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) ⭐ 388 | 🐛 80 | 🌐 TypeScript | 📅 2026-09-09** - 108 open-source regex detection rules for AI agent threats (prompt injection, tool poisoning, credential exfiltration, skill compromise). <1ms per scan. Adopted by Cisco AI Defense.
-* **[Aguara](https://github.com/garagon/aguara) ⭐ 88 | 🐛 5 | 🌐 Go | 📅 2026-09-02** - A static security scanner for AI agent skills and MCP server configurations. Detects prompt injection, credential leaks, data exfiltration, and supply-chain attacks with 173 built-in rules, 4 analysis layers, and remediation guidance.
+* **[ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) ⭐ 389 | 🐛 81 | 🌐 TypeScript | 📅 2026-09-10** - 108 open-source regex detection rules for AI agent threats (prompt injection, tool poisoning, credential exfiltration, skill compromise). <1ms per scan. Adopted by Cisco AI Defense.
+* **[Aguara](https://github.com/garagon/aguara) ⭐ 88 | 🐛 1 | 🌐 Go | 📅 2026-09-10** - A static security scanner for AI agent skills and MCP server configurations. Detects prompt injection, credential leaks, data exfiltration, and supply-chain attacks with 173 built-in rules, 4 analysis layers, and remediation guidance.
 * **[Agent Bound](https://github.com/ElPaisano/agent-bound)** - A design-time analysis tool that calculates "Agentic Entropy"—a metric to quantify the unpredictability and risk of infinite loops or unconstrained actions in agent architectures.
 
 ## 📦 Sandboxing & Isolation Environments
 
 *Secure runtimes to prevent agents from damaging the host system during code execution.*
 
-* **[OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 87,054 | 🐛 703 | 🌐 TypeScript | 📅 2026-09-09** - Formerly OpenDevin, this platform includes a secure runtime environment for autonomous coding agents to operate without accessing the host machine's sensitive files.
-* **[Agent-Infra Sandbox](https://github.com/agent-infra/sandbox) ⭐ 5,878 | 🐛 70 | 🌐 Python | 📅 2026-08-25** - An "All-In-One" sandbox combining Browser, Shell, VSCode, and File System access in a single Docker container, optimized for agentic tasks.
-* **[Kubernetes Agent Sandbox](https://github.com/kubernetes-sigs/agent-sandbox) ⭐ 3,788 | 🐛 237 | 🌐 Go | 📅 2026-09-09** - A Kubernetes Native project providing a Sandbox Custom Resource Definition (CRD) to manage isolated, stateful workloads for AI agents.
+* **[OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 87,238 | 🐛 702 | 🌐 TypeScript | 📅 2026-09-10** - Formerly OpenDevin, this platform includes a secure runtime environment for autonomous coding agents to operate without accessing the host machine's sensitive files.
+* **[Agent-Infra Sandbox](https://github.com/agent-infra/sandbox) ⭐ 5,884 | 🐛 71 | 🌐 Python | 📅 2026-09-10** - An "All-In-One" sandbox combining Browser, Shell, VSCode, and File System access in a single Docker container, optimized for agentic tasks.
+* **[Kubernetes Agent Sandbox](https://github.com/kubernetes-sigs/agent-sandbox) ⭐ 3,801 | 🐛 221 | 🌐 Go | 📅 2026-09-10** - A Kubernetes Native project providing a Sandbox Custom Resource Definition (CRD) to manage isolated, stateful workloads for AI agents.
 * **[SandboxAI](https://github.com/substratusai/sandboxai) ⭐ 143 | 🐛 5 | 🌐 Go | 📅 2025-02-05** - An open-source runtime for executing AI-generated code (Python/Shell) in isolated containers with granular permission controls.
 
 ## 🚧 Guardrails & Compliance
 
 *Middleware to enforce business logic and safety policies on inputs and outputs.*
 
-* **[LiteLLM Guardrails](https://github.com/BerriAI/litellm) ⭐ 58,377 | 🐛 5,016 | 🌐 Python | 📅 2026-09-09** - While known for model proxying, LiteLLM includes built-in guardrail features to filter requests and responses across multiple LLM providers.
-* **[Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 7,376 | 🐛 79 | 🌐 Python | 📅 2026-09-08** - A Python framework for validating LLM outputs against structural and semantic rules (e.g., "must return valid JSON," "must not contain PII").
-* **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,093 | 🐛 225 | 🌐 Python | 📅 2026-09-09** - NVIDIA's toolkit for adding programmable rails to LLM-based apps. It ensures agents stay on topic, avoid jailbreaks, and adhere to defined safety policies.
-* **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 170 | 🐛 26 | 🌐 Python | 📅 2026-09-09** - An official OWASP project that detects and blocks AI agent memory poisoning attacks (OWASP ASI06). Provides a drop-in middleware for LangChain, AutoGen, and CrewAI pipelines with real-time threat detection, sanitization hooks, and audit logging. `pip install agent-memory-guard`.
+* **[LiteLLM Guardrails](https://github.com/BerriAI/litellm) ⭐ 58,448 | 🐛 5,019 | 🌐 Python | 📅 2026-09-10** - While known for model proxying, LiteLLM includes built-in guardrail features to filter requests and responses across multiple LLM providers.
+* **[Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 7,389 | 🐛 79 | 🌐 Python | 📅 2026-09-08** - A Python framework for validating LLM outputs against structural and semantic rules (e.g., "must return valid JSON," "must not contain PII").
+* **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,099 | 🐛 227 | 🌐 Python | 📅 2026-09-10** - NVIDIA's toolkit for adding programmable rails to LLM-based apps. It ensures agents stay on topic, avoid jailbreaks, and adhere to defined safety policies.
+* **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 171 | 🐛 21 | 🌐 Python | 📅 2026-09-10** - An official OWASP project that detects and blocks AI agent memory poisoning attacks (OWASP ASI06). Provides a drop-in middleware for LangChain, AutoGen, and CrewAI pipelines with real-time threat detection, sanitization hooks, and audit logging. `pip install agent-memory-guard`.
 
 ## 📊 Benchmarks & Datasets
 
 *Resources to evaluate agent security performance.*
 
-* **[CVE Bench](https://github.com/uiuc-kang-lab/cve-bench) ⭐ 281 | 🐛 8 | 🌐 Python | 📅 2026-01-14** - A benchmark for evaluating an AI agent's ability to exploit real-world web application vulnerabilities (useful for testing defensive agents).
+* **[CVE Bench](https://github.com/uiuc-kang-lab/cve-bench) ⭐ 282 | 🐛 8 | 🌐 Python | 📅 2026-01-14** - A benchmark for evaluating an AI agent's ability to exploit real-world web application vulnerabilities (useful for testing defensive agents).
 
 ## 🆔 Identity & Authentication
 
 *Tools to manage agent identity (non-human identities).*
 
-* **[OneCLI](https://github.com/onecli/onecli) ⭐ 3,461 | 🐛 141 | 🌐 TypeScript | 📅 2026-09-08** - Open-source credential vault for AI agents. A Rust HTTP gateway intercepts agent requests and injects API credentials transparently, so agents never handle raw keys. Supports per-agent scoped tokens and AES-256-GCM encryption at rest.
+* **[OneCLI](https://github.com/onecli/onecli) ⭐ 3,463 | 🐛 142 | 🌐 TypeScript | 📅 2026-09-10** - Open-source credential vault for AI agents. A Rust HTTP gateway intercepts agent requests and injects API credentials transparently, so agents never handle raw keys. Supports per-agent scoped tokens and AES-256-GCM encryption at rest.
 * **[WSO2](https://github.com/wso2)** - An identity management solution that treats AI agents as first-class identities, enabling secure authentication and authorization for agent actions.
 
 ***
@@ -96,4 +96,4 @@ Contributions are welcome! Please read the contribution guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
